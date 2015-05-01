@@ -1,2 +1,2 @@
 # ColombianAstronomy
-web page
+http://colombianastronomy.github.io/ColombianAstronomy. 
